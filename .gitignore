@@ -1,0 +1,17 @@
+# Configurações locais
+conexao.php
+
+# Logs e arquivos de debug
+debug.log
+*.log
+
+# Dados locais/sensíveis
+usuarios.txt
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Sistema operacional
+Thumbs.db
+.DS_Store
